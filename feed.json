@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "sydneythecreative.com",
+    "title": "www.sydneythecreative.com",
     "description": "",
     "home_page_url": "https://github.com/sydouthere-sudo/sydney-the-creative",
     "feed_url": "https://github.com/sydouthere-sudo/sydney-the-creative/feed.json",
@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://github.com/sydouthere-sudo/sydney-the-creative/my-first-site/",
-            "url": "https://github.com/sydouthere-sudo/sydney-the-creative/my-first-site/",
+            "id": "https://github.com/sydouthere-sudo/sydney-the-creative/my-first-site/index.html",
+            "url": "https://github.com/sydouthere-sudo/sydney-the-creative/my-first-site/index.html",
             "title": "My First Site",
             "summary": "So far, I'm figuring things out as I go along. This will be a place where I share my thoughts, cite my writing&hellip;",
             "content_html": "\n  <p>\n    So far, I'm figuring things out as I go along. This will be a place where I share my thoughts, cite my writing and add my photography. Thank you for listening and welcome to my space.\n  </p>",
